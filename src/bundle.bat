@@ -1,0 +1,1 @@
+cd . & type index.js kuroshiro.js kuroshiro-analyzer-kuromoji.js > ../Furigana.js
